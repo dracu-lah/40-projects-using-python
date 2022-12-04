@@ -1,3 +1,8 @@
+# install nltk using pip and 
+# in python terminal type 
+# import nltk
+# nltk.download('punkt')
+
 from nltk.tokenize import word_tokenize
 question_words = ["what", "why", "when", "where", "name", "is", "how", "do", "does", "which", "are", "could", "would", "should", "has", "have", "whom", "whose", "dont't"]
 
