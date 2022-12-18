@@ -9,4 +9,4 @@ def maximum(x):
 
 a = [23, 76, 45, 20, 70, 65, 15, 54]
 
-print(maximum(a))
+print(f"Maximum:  {maximum(a)}")
